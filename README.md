@@ -3,3 +3,4 @@
 
 # Project Brief
 A random message generator that creates spurious facts about famous composers, implemented in JavaScript.
+Run locally with node.js
